@@ -16,7 +16,7 @@ Throughout my career, I have been dedicated to optimizing data management proces
 
 Optimized Data Management: Implemented big data processing solutions using Hive Data Lake, resulting in improved data management and reduced processing times.
 
-SQL Optimization: Improved SQL stored procedures, reducing average runtime by three hours per week for repetitive processes.
+<b>SQL Optimization:</b> Improved SQL stored procedures, reducing average runtime by three hours per week for repetitive processes.
 
 Cross-Functional Collaboration: Worked closely with cross-functional teams to identify process improvements and enhance the overall batch processing application.
 
