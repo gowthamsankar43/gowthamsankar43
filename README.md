@@ -14,13 +14,13 @@ Welcome to my professional portfolio! I am Gowtham M S, an Azure Data Engineer w
 
 Throughout my career, I have been dedicated to optimizing data management processes and delivering high-quality outputs. My proficiency in building end-to-end Azure pipelines with Azure DevOps and GitHub has enabled me to make significant contributions to various projects. Here are some highlights of my professional journey:
 
-Optimized Data Management: Implemented big data processing solutions using Hive Data Lake, resulting in improved data management and reduced processing times.
+**Optimized Data Management:** Implemented big data processing solutions using Hive Data Lake, resulting in improved data management and reduced processing times.
 
-<b>SQL Optimization:</b> Improved SQL stored procedures, reducing average runtime by three hours per week for repetitive processes.
+**SQL Optimization:** Improved SQL stored procedures, reducing average runtime by three hours per week for repetitive processes.
 
-Cross-Functional Collaboration: Worked closely with cross-functional teams to identify process improvements and enhance the overall batch processing application.
+**Cross-Functional Collaboration:** Worked closely with cross-functional teams to identify process improvements and enhance the overall batch processing application.
 
-Defect Tracking and Resolution: Leveraged Jira for defect tracking and resolution, resolving 30% of defects ahead of schedule.
+**Defect Tracking and Resolution:** Leveraged Jira for defect tracking and resolution, resolving 30% of defects ahead of schedule.
 
 
 **Talking about Personal Stuffs:**
@@ -36,6 +36,7 @@ Thank you for visiting!
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory?style=for-the-badge&logo=Azure%20Data%20Factory&logoColor=ffdd54&label=Azure%20Data%20Factory)
 
 
 # 📊 GitHub Stats:
