@@ -1,6 +1,6 @@
 ### Hello World 👋 It's [Gowtham M S | Data Engineer!](https://github.com/gowthamsankar43/)
 
-<p align="left"> <img src="assets/photo.jpg" alt="Gowtham M S" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamsankar43&label=Profile%20views&color=0e75b6&style=flat" alt="Gowtham M S" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-m-s/) 
