@@ -8,24 +8,29 @@
 
 <br />
 
-As a highly motivated and results-oriented recent graduate with a strong foundation in data engineering principles and a passion for cloud technologies, I am confident that I possess the skills and eagerness to thrive in this role and contribute significantly to our team's success. 
+Dear Visitor,
 
-I gained a comprehensive understanding of data engineering concepts, including data modelling, data pipelines, and data warehousing. I have a strong proficiency in SQL and experience working with programming languages like Python and Java. Additionally, I have actively pursued certifications in Azure data services, such as DP-203,AZ-900,DP-900,AI-900. 
+Welcome to my professional portfolio! I am Gowtham M S, an Azure Data Engineer with nearly three years of experience in designing and implementing robust ETL pipelines and big data solutions. My expertise lies in leveraging Azure Data Factory, Databricks, and Data Lake to process and manage large volumes of data efficiently.
 
-I am a quick learner and highly adaptable, with a genuine enthusiasm for staying current with the latest advancements in the field. 
-My motivation for seeking new opportunities is to deepen my expertise in Big Data technologies, particularly Spark and Kafka. Although I am not currently part of the Big Data team, I have a solid understanding of the architecture and workflow processes involved.
-Enthusiastic and Eager to Learn More:
- • Continuously expanding my Azure skillset by undertaking additional projects. 
-• Possess a strong desire to contribute to a team environment and leverage my existing data engineering expertise in the context of Azure. 
-❤✌
+Throughout my career, I have been dedicated to optimizing data management processes and delivering high-quality outputs. My proficiency in building end-to-end Azure pipelines with Azure DevOps and GitHub has enabled me to make significant contributions to various projects. Here are some highlights of my professional journey:
 
+Optimized Data Management: Implemented big data processing solutions using Hive Data Lake, resulting in improved data management and reduced processing times.
 
+SQL Optimization: Improved SQL stored procedures, reducing average runtime by three hours per week for repetitive processes.
+
+Cross-Functional Collaboration: Worked closely with cross-functional teams to identify process improvements and enhance the overall batch processing application.
+
+Defect Tracking and Resolution: Leveraged Jira for defect tracking and resolution, resolving 30% of defects ahead of schedule.
 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I'm a passionate Data engineer with expertise in SQL, Pyspark, ADF, Microsoft Fabric, Azure Databricks, Confluent Kafka
-- 🌱 Looking for an opportunity to work on robust and scalable solutions to tackle complex business problems.
+I am passionate about data engineering and continuously strive to stay updated with the latest technologies and best practices in the field. My goal is to contribute to innovative projects that drive business success and deliver valuable insights through data.
+
+Feel free to explore my portfolio to learn more about my skills, certifications, and projects. If you have any questions or would like to discuss potential opportunities, please do not hesitate to contact me.
+
+Thank you for visiting!
+❤✌
 
 
 
