@@ -35,10 +35,8 @@ Thank you for visiting!
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory?style=for-the-badge&logo=Azure%20Data%20Factory&logoColor=ffdd54&label=Azure%20Data%20Factory)
-
-
+<ul> <li>Azure Data Factory (ADF)</li> <li>Kafka</li> <li>SQL</li> <li>PySpark</li> <li>Microsoft Fabric</li> <li>Power BI</li></li> </ul>
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gowthamsankar43&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gowthamsankar43&theme=dark&hide_border=false)<br/>
