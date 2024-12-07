@@ -35,7 +35,7 @@ Thank you for visiting!
 
 
 # 💻 Tech Stack:
-<ul> <li>Azure Data Factory (ADF)</li> <li>Kafka</li> <li>SQL</li> <li>PySpark</li> <li>Microsoft Fabric</li> <li>Power BI</li></li> </ul>
+<ul> <li>Azure Data Factory (ADF)</li> <li>Kafka</li> <li>SQL</li> <li>PySpark</li> <li>Microsoft Fabric</li> <li>Power BI</li> <li>Cassandra</li> <li>Azure Synapse Analytics</li> <li>Azure Databricks</li> <li>Azure Data Lake</li> </ul>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gowthamsankar43&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
