@@ -10,7 +10,7 @@
 
 Dear Visitor,
 
-Welcome to my professional portfolio! I am Gowtham M S, an Azure Data Engineer with nearly three years of experience in designing and implementing robust ETL pipelines and big data solutions. My expertise lies in leveraging Azure Data Factory, Databricks, and Data Lake to process and manage large volumes of data efficiently.
+Welcome to my professional portfolio! I am Gowtham M S, an Azure Data Engineer with 3.6 years of experience in designing and implementing robust ETL pipelines and big data solutions. My expertise lies in leveraging Azure Data Factory, Databricks, and Data Lake to process and manage large volumes of data efficiently.
 
 Throughout my career, I have been dedicated to optimizing data management processes and delivering high-quality outputs. My proficiency in building end-to-end Azure pipelines with Azure DevOps and GitHub has enabled me to make significant contributions to various projects. Here are some highlights of my professional journey:
 
