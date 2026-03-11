@@ -10,17 +10,27 @@
 
 Dear Visitor,
 
-Welcome to my professional portfolio! I am Gowtham M S, an Azure Data Engineer with 3.6 years of experience in designing and implementing robust ETL pipelines and big data solutions. My expertise lies in leveraging Azure Data Factory, Databricks, and Data Lake to process and manage large volumes of data efficiently.
+Welcome to my professional portfolio! I am Gowtham M S, an Azure Data Engineer with 4.3 years of experience in designing and implementing robust ETL pipelines and big data solutions. My expertise lies in leveraging Azure Data Factory, Databricks, and Data Lake to process and manage large volumes of data efficiently.
 
 Throughout my career, I have been dedicated to optimizing data management processes and delivering high-quality outputs. My proficiency in building end-to-end Azure pipelines with Azure DevOps and GitHub has enabled me to make significant contributions to various projects. Here are some highlights of my professional journey:
 
-**Optimized Data Management:** Implemented big data processing solutions using Hive Data Lake, resulting in improved data management and reduced processing times.
+**Cloud Migration & Data Lakehouse Design**: Architected and executed migration of enterprise data landscapes to Azure Cloud, improving scalability by 40% and reducing operational costs by 30%. Designed and deployed Azure Synapse Data Lakehouse integrating Spark-based big data processing with enterprise warehousing.
 
-**SQL Optimization:** Improved SQL stored procedures, reducing average runtime by three hours per week for repetitive processes.
+**Big Data & ETL Optimization**: Implemented Hive Data Lake and high-performance ETL pipelines using MySQL and Spring Batch, processing 5GB/day with 100% accuracy and reducing processing times significantly.
 
-**Cross-Functional Collaboration:** Worked closely with cross-functional teams to identify process improvements and enhance the overall batch processing application.
+**SQL Performance Tuning**: Optimized SQL stored procedures, improving query performance by 60% and reducing runtime by 3 hours weekly for repetitive batch processes.
 
-**Defect Tracking and Resolution:** Leveraged Jira for defect tracking and resolution, resolving 30% of defects ahead of schedule.
+**CI/CD Automation**: Engineered CI/CD pipelines in Azure DevOps, automating 100% of deployments for ADF and Synapse resources, reducing deployment time to 15 minutes.
+
+**Cost Optimization & Reliability**: Built control pipelines to intelligently start/stop Synapse SQL Pools, cutting cloud spend. Implemented automated failure alerting via Synapse API, improving pipeline reliability to 99% and reducing incident response time by 75%.
+
+**Cross-Functional Collaboration**: Partnered with analysts, developers, QA teams, and business stakeholders to identify process improvements, enhance data quality frameworks, and align technical requirements with strategic business goals.
+
+**Defect Tracking & Resolution**: Utilized Jira for defect management, achieving a 30% faster resolution rate and reducing overall defect backlog.
+
+**Leadership & Team Management**: Led a team of 4 (analysts, Java developers, BI experts), achieving project goals with a 95% customer satisfaction rate and delivering ahead of deadlines.
+
+**Reusable Frameworks & Automation**: Developed generic frameworks using Microsoft Graph API to automate file transfers between Azure Data Lake Storage and SharePoint, saving 15 person-hours weekly.
 
 
 **Talking about Personal Stuffs:**
